@@ -1,4 +1,4 @@
 package stu.aistar.day01;
 
-public class www {
+public class Hello {
 }
